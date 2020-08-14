@@ -1,8 +1,8 @@
 # Laravel-Docker _(laravel-docker)_
 
-> A simple Laravel with Docker setup
+> A simple Laravel app with Docker already set up
 
-Laravel-Docker offers out of the box: 
+Laravel-Docker out of the box offers: 
  - Docker support
    - nginx
    - mysql
