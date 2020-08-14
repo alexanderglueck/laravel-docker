@@ -44,7 +44,7 @@ Feel free to dive in! Open an issue or submit PRs.
 
 ## License
 
-See [LICENSE.md](LICENSE.md)
+MIT
 
 [maintainer-alexanderglueck]: https://github.com/alexanderglueck
 
