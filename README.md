@@ -24,7 +24,7 @@ Laravel-Docker out of the box offers:
 
 3. Build assets
     ```bash
-    npm run prod
+    npm run build
     ``` 
 
 ## Security

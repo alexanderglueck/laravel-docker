@@ -34,5 +34,9 @@ run.ps1
 /storage/*.key
 
 node_modules
+vendor
 .docker
 .git/
+
+/public/build
+/storage/tmp
